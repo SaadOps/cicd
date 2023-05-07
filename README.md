@@ -1,4 +1,4 @@
-# Jenkins CICD with GitHub Integration (Notes)
+# Jenkins CICD with GitHub Integration
 
 1) Create AWS EC2 instance
 2) sudo apt update
